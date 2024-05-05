@@ -2,7 +2,7 @@
 
 Follow the steps below to generate and process the data:
 
-1. Execute all the code in `preprocess_SP500.ipynb`.
+1. Execute all the code in `preprocess_SP500.ipynb`. (`preprocess_NASDAQ.ipynb` is decrypted, but will also work)
 2. Run the `get_data()` function in `preprocessing_stock_price.ipynb` to download the related stock data. This needs to be done only once.
 3. Execute the remaining code of `preprocess_stock_price.ipynb` until `extract_data()`. Adjust parameters to generate different datasets. Note that the latest `extract_data()` call will overlap the previous one.
 4. Run `standardize`, `minmax_scaler` to get the corresponding scaler. Note that these are not applied in the final model.
