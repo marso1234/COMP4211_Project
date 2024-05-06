@@ -1,3 +1,7 @@
+Team Member: 
+- SO Ho Mang Marcus (20763476) hmsoab@connect.ust.hk 
+- LO Wang Ip (20865937) wiloaa@connect.ust.hk!
+
 # Data Generation Process
 
 Follow the steps below to generate and process the data:
